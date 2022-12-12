@@ -18,7 +18,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 
 ## Acceptance Criteria
-
+`
 ```
 GIVEN a note-taking application
 WHEN I open the Note Taker
