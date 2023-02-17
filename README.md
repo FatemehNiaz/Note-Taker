@@ -1,7 +1,7 @@
 # # Note-Taker
 
 ## Task Description
-To create an application called Note Taker which enables the user to write and save and delete the notes. To be abe to save and retrive the note data from the Json file, use the Express.js for the back end part.
+To create a user friendly application called Note Taker which enables the user to write, save and delete the notes. To be abe to save and retrive the note data from the Json file, use the Express.js for the back end part.
 After building the back end, make sure to connect the it to the front end, also deploy the entire Note Taker application to Heroku.
 
 
